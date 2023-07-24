@@ -9,3 +9,7 @@ PROGRAMA: ZEQB_COCKPIT_ESCALA Criador Otavio<br>
 PROGRAMA: ZEQB_IMPORT_TXT_CREDITO - Criador: Francisco<br>
 PROGRAMA: ZEQB_HISTORICO_COMPRAS Criador: Gustavo<br>
 PROGRAMA: ZEQB_COCKPIT Criador Gustavo
+
+# Link para o projeto da Equipe B
+
+https://github.com/Dudualuizio17/Team-A-Project.git
