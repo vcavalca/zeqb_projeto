@@ -10,6 +10,6 @@ PROGRAMA: ZEQB_IMPORT_TXT_CREDITO - Criador: Francisco<br>
 PROGRAMA: ZEQB_HISTORICO_COMPRAS Criador: Gustavo<br>
 PROGRAMA: ZEQB_COCKPIT Criador Gustavo
 
-# Link para o projeto da Equipe B
+# Link para o projeto da Equipe A
 
 https://github.com/Dudualuizio17/Team-A-Project.git
